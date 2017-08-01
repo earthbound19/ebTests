@@ -1,6 +1,6 @@
 Ganked and tweaked from [unexpected-vortices](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html):
 
-[Such link to a4 header](####Such h4 header)
+[Such link to a4 header](#### Such-h4-header)
 
 An h1 header
 ============
