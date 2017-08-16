@@ -1,0 +1,1 @@
+git add . && git commit -m "$(buzzphrase)" && git push
