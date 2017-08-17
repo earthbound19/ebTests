@@ -2,6 +2,18 @@ Ganked and tweaked from [unexpected-vortices](http://www.unexpected-vortices.com
 
 [Such link to a4 header](###Such-h3-header)
 
+![this img](https://lh4.googleusercontent.com/8UrRzi8sgcdu-YxldOcg44kD4aw15dE_bdP-O7H21cNYlgkxVMyut3I6ux6puEeA_ooCRG9ULY4iunA=w3406-h2190)
+
+Look, a multi-indented list!
+
+* foo
+  * bar
+  * baz
+    * choo
+    * floo
+  * bor
+* snor
+
 An h1 header
 ============
 
