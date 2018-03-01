@@ -2,7 +2,7 @@ Ganked and tweaked from [unexpected-vortices](http://www.unexpected-vortices.com
 
 [Such link to a4 header](###Such-h3-header)
 
-![this img](https://lh4.googleusercontent.com/8UrRzi8sgcdu-YxldOcg44kD4aw15dE_bdP-O7H21cNYlgkxVMyut3I6ux6puEeA_ooCRG9ULY4iunA=w3406-h2190)
+![this img](https://www.dropbox.com/s/mtpy6b6iua04gj3/ES_prompt.png?dl=0)
 
 Look, a multi-indented list!
 
