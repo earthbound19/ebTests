@@ -1,5 +1,5 @@
-# gitPlayground
-For experimenting with and learning git.
+# ebTests
+For experimenting and learning git, or anything else.
 
 Here mayhap is a link to the [Wiki](https://github.com/earthbound19/ebTests/wiki).
 
